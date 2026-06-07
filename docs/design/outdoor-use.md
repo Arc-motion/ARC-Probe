@@ -4,13 +4,17 @@ ARC Probe is primarily conceived as an indoor product: a small environmental pro
 
 That said, the current shell direction also keeps an outdoor path open.
 
-## Sealed Shell Direction
+## Controlled Shell Direction
 
-The public concept render shows a compact hexagonal body with a closed top and no exposed USB opening. In that direction, the outer shell can be treated more like a continuous plastic container than a perforated electronics enclosure.
+The public concept render shows a compact hexagonal body with a closed top and no exposed USB opening. In that direction, the outer shell can be treated more like a controlled plastic container than a generally open electronics enclosure.
 
-If the shell is properly sealed, a few drops of water resting on the flat top are not necessarily a problem in themselves. A simple plastic bottle can hold water reliably because the material and closure strategy do the work. ARC Probe would need the same kind of thinking: the right plastic, controlled wall thickness, reliable joints, and a careful sealing strategy.
+If the shell is properly designed, a few drops of water resting on the flat top are not necessarily a problem in themselves. A simple plastic bottle can hold water reliably because the material and closure strategy do the work. ARC Probe would need the same kind of thinking: the right plastic, controlled wall thickness, reliable joints, and a careful sealing strategy.
 
-This note does not claim a tested waterproof rating. It records the design intent: avoid unnecessary openings, keep the exterior simple, and make the enclosure direction compatible with future water-resistance work.
+At the same time, ARC Probe should not be understood as a completely airless object. Environmental sensing may require deliberate air exchange, and outdoor use may benefit from pressure equalization and moisture management. Any ventilation holes should therefore be designed as protected features, not accidental weak points.
+
+Possible directions include small downward-facing vents, internal labyrinth paths, hydrophobic acoustic-style membranes, or optically/sensor-aligned openings that allow air and light to reach the sensing area while reducing direct water paths.
+
+This note does not claim a tested waterproof rating. It records the design intent: avoid unnecessary openings, keep the exterior simple, and make any required ventilation part of the enclosure architecture from the beginning.
 
 ## Material Direction
 
@@ -35,6 +39,7 @@ If ARC Probe is used outside, the electronics should be protected against conden
 A future outdoor-capable version would need validation of:
 
 - Enclosure sealing and water paths.
+- Ventilation-hole placement, drainage, and splash resistance.
 - Material behavior under sunlight, temperature shifts, and humidity.
 - Optical transmission for the light sensor and LED.
 - Battery safety and charging behavior across expected conditions.
