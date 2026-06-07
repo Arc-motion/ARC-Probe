@@ -37,6 +37,8 @@ The current design direction uses a hexagonal body language: precise enough to f
 
 The internal battery fixture is part of that direction. It keeps the product compact, serviceable, and physically honest: a real embedded object with power, sensing, wireless data, and enclosure constraints designed together.
 
+The concept is indoor-first, but the closed shell direction keeps a possible outdoor path open if material choice, sealing, and electronics protection are developed carefully. See [Outdoor Use Design Note](docs/design/outdoor-use.md).
+
 ![ARC Probe internal battery fixture](assets/renders/probe-body-battery-fixture-assembly.png)
 
 ## Plants And Indoor Air Quality
