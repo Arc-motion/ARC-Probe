@@ -4,7 +4,7 @@ ARC Probe is a small, battery-powered environmental sensing probe for plants, cl
 
 This repository is the public design and concept marker for the ARC Probe hexagonal prototype direction. It documents the current product intent, visual design language, and proof-of-work status without publishing firmware, PCB files, mechanical CAD, BOM, manufacturing notes, or app source before launch.
 
-![ARC Probe flat-top hexagonal shell](assets/renders/flattop-hexagon.png)
+![ARC Probe transparent flat-top hexagonal shell](assets/renders/Probe_Body_Dev_FlatTop_Transparant.png)
 
 ## Why ARC Probe
 
